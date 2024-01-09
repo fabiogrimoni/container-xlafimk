@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fabiogrimoni",
+  "repo": "container-xlafimk",
+  "name": "fabiogrimoni",
+  "email": "fabio.grimoni@masterbit.it",
+}
